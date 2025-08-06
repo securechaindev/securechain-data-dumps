@@ -1,6 +1,6 @@
 # Secure Chain Data Dumps
 
-This repository serves as a reference and landing page for a resource published on [Zenodo](https://zenodo.org/). In short, acts as a public reference within GitHub to facilitate discovery, citation, and long-term access to the Zenodo resource.
+This repository serves as a reference and landing page for a data dumps published on [Zenodo](https://zenodo.org/). In short, acts as a public reference within GitHub to facilitate discovery, citation, and long-term access to the Zenodo resource.
 
 📦 **Resource:** Contains the files and scripts needed to initialise and populate the databases used by SecureChain.
 
