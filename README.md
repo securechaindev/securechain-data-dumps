@@ -6,7 +6,7 @@ This repository serves as a reference and landing page for a data dumps publishe
 
 🔗 **Zenodo DOI:** 10.5281/zenodo.17692376
 
-📁 **Direct Access:** [View on Zenodo](https://doi.org/10.5281/zenodo.17692376)
+📁 **Direct Access:** [View on Zenodo](https://doi.org/10.5281/zenodo.16739080)
 
 ## Citation
 
